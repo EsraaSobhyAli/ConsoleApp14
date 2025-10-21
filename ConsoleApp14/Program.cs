@@ -168,6 +168,7 @@ class Program
         if (!(n <= 0))
             Console.WriteLine(++n + z++ + " " + ++z);
         else
+
             Console.WriteLine(--n + z-- + " " + --z);
 
         // 7 7  
